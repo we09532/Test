@@ -233,11 +233,11 @@
               arguments: {
                 EMAIL: {
                   type: Scratch2.ArgumentType.STRING,
-                  defaultValue: "",
+                  defaultValue: "williamjaye1@outlook.com",
                 },
                 PASSWORD: {
                   type: Scratch2.ArgumentType.STRING,
-                  defaultValue: "",
+                  defaultValue: " Su x in Es in Es hdjd",
                 },
               },
             },
